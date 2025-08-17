@@ -1,0 +1,17 @@
+{
+    "name": "[PKG_NAMESPACE].Editor",
+    "references": [
+        "[PKG_NAMESPACE]"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

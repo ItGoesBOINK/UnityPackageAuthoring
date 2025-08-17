@@ -1,0 +1,21 @@
+{
+  "name": "supafabulus.util.unitypackageauthoring",
+  "version": "0.0.1",
+  "displayName": "Unity Package Authoring",
+  "description": "Tools and Templates to ease the creation of installable content for Unity3D projects through Package Manager.",
+  "unity": "2022.3",
+  "unityRelease": "25f1",
+  "documentationUrl": "https://github.com/ItGoesBOINK/UnityPackageAuthoring#",
+  "changelogUrl": "https://github.com/ItGoesBOINK/UnityPackageAuthoring/activity",
+  "licensesUrl": "https://github.com/ItGoesBOINK/UnityPackageAuthoring?tab=Apache-2.0-1-ov-file#readme",
+  "dependencies": {},
+ "keywords": [
+    "ItGoesBoink",
+    "UnityPackageAuthoring"
+  ],
+  "author": {
+    "name": "It Goes BOINK!",
+    "email": "itgoesboink@gmail.com",
+    "url": "https://www.itgoesboink.com"
+  }
+}
